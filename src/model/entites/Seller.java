@@ -59,7 +59,7 @@ public class Seller implements Serializable{
 	}
 
 	public void setBirthday(Date Birthday) {
-		this.birthday = birthday;
+		this.birthday = Birthday;
 	}
 
 	public Double getBaseSalary() {
