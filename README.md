@@ -1,4 +1,4 @@
-Redme
+
 # Projeto Empresa - CRUD em Java com MySQL
 
 Este projeto visa implementar operações CRUD (Criar, Ler, Atualizar, Deletar) em um banco de dados utilizando Java e MySQL. O sistema permite o gerenciamento de informações de funcionários e departamentos de uma empresa.
